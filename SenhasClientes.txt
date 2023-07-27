@@ -1,15 +1,3 @@
-Mensagem Criptografada: bq+#uy#mHvwHMzy#vu#zOt#uMzuL#xt#yLkIEi+#iI#uyBw#wqu
-Chave-guia: sht
-
-
-Mensagem Criptografada: Oi, me encontre na rua atras da escola, ao meio dia
-Chave-guia: sht
-
-
-Mensagem Criptografada: bq+#uy#mHvwHMzy#vu#zOt#uMzuL#xt#yLkIEi+#iI#uyBw#wqu
-Chave-guia: sht
-
-
 Mensagem Criptografada: hq+#uy#mHvwHMzy#vu#zOt#uMzuL#xt#yLkIEi+#iI#uyBw#wqu
 Chave-guia: sht
 

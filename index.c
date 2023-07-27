@@ -98,7 +98,7 @@ int main( ) {
         char mensagemDescriptografada[strlen(mensagem)];
         strcpy(mensagemDescriptografada, mensagem);
 
-        strcat(arquivoEnvio, "Mensagem Criptografada: ");
+        strcat(arquivoEnvio, "Mensagem Descriptografada: ");
         strcat(arquivoEnvio, mensagemDescriptografada);
         strcat(arquivoEnvio, "\nChave-guia: ");
         strcat(arquivoEnvio, chaveGuia);
